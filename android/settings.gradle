@@ -1,0 +1,3 @@
+rootProject.name = 'ReachOut'
+
+include ':app'
